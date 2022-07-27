@@ -1,0 +1,20 @@
+{
+    "name": "important",
+    "displayName": "!important",
+    "description": "An extension that provides the snippet to make !important in css faster.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
