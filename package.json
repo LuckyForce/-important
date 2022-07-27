@@ -2,7 +2,7 @@
     "name": "important",
     "displayName": "!important",
     "description": "An extension that provides the snippet to make !important in css faster.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -22,5 +22,5 @@
         "url": "https://github.com/LuckyForce/-important"
     },
     "publisher": "adrian-schauer",
-    "icon": "https://www.adrian-schauer.at/frontend/pictures/favicon.png"
+    "icon": "favicon.png"
 }
