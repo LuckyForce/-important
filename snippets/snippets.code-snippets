@@ -1,1 +1,12 @@
-{}
+{
+    "!important": {
+        "prefix": [
+            "!important",
+            "!i"
+        ],
+        "body": [
+            "!important",
+        ],
+        "description": "Creates a style rule with !important"
+    }
+}
